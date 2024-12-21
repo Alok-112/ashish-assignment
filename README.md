@@ -1,6 +1,4 @@
-Here is a documentation based on the provided cURL commands for running the API requests:
 
----
 
 ### API Documentation
 
@@ -109,6 +107,3 @@ This endpoint retrieves a list of users for specific days of the week. In this c
   ```
 - You can use **Postman**, **cURL**, or any API testing tool to test these requests.
 
----
-
-Let me know if you need further details!
